@@ -1,4 +1,4 @@
-# Hi, I'm Om Chiddarwar 👋  
+# Hi, I'm Om Chiddarwar
 
 🎓 BTech+MTech Student (IIITDM Kurnool) | 💻 ML & DS Enthusiast | 🤖 AI & GNN Researcher  | Gen-AI Explorer
 
