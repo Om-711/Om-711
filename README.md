@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&pause=1000&color=ffffff&width=435&lines=Hey+there!+I+am+Om+Chiddarwar.;A+Full+Stack+Developer+and+Designer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&pause=1000&color=ffffff&width=435&lines=Hey+there!+I+am+Om+Chiddarwar.;)](https://git.io/typing-svg)
 <br>
 🎓 BTech+MTech Student (IIITDM Kurnool) | 💻 ML & DS Enthusiast |  Gen-AI Explorer
 
